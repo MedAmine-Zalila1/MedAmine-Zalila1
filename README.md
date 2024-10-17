@@ -1,4 +1,5 @@
 # 💫 About Me:
+(https://media.licdn.com/dms/image/v2/D4E16AQFmfxvHIYhndQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729104064259?e=1734566400&v=beta&t=HXirpyCNBG4IfCYxAvIxQ6P8SDmt1FUPl6n8DrsIuSM)
 👋 Hello! I'm Mohamed Amine, a recent graduate with a degree in Computer Technologies and a strong passion for both web and mobile development. With a solid foundation built through academic studies and internships, I’m excited to apply my skills in real-world projects and take on new challenges in the tech industry.
 
 🔧 I specialize in web development, proficient in creating dynamic and responsive applications using HTML, CSS, JavaScript, and .NET. Additionally, I have experience building scalable backend solutions using PHP frameworks like Symfony and developing RESTful APIs. On the mobile front, I'm expanding my expertise with Flutter for cross-platform app development. I prioritize clean, efficient code, leveraging Git for version control, and thrive in collaborative environments.
