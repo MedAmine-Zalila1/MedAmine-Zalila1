@@ -1,3 +1,4 @@
+<center><img alt="Header" src="https://github.com/MedAmine-Zalila1/MedAmine-Zalila1/blob/main/green_banner.png?raw=true"/></center>
 # 💫 About Me:
 👋 Hello! I'm Mohamed Amine, a recent graduate with a degree in Computer Technologies and a strong passion for both web and mobile development. With a solid foundation built through academic studies and internships, I’m excited to apply my skills in real-world projects and take on new challenges in the tech industry.
 
