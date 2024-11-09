@@ -5,13 +5,25 @@
 
 **`Junior Software Developer (Web & Mobile Apps)`**
 # 💫 About Me:
-👋 Hello! I'm Mohamed Amine, a recent graduate with a degree in Computer Technologies and a strong passion for both web and mobile development. With a solid foundation built through academic studies and internships, I’m excited to apply my skills in real-world projects and take on new challenges in the tech industry.
+💻 Junior Software Developer | Passionate About Web & Mobile Development
 
-🔧 I specialize in web development, proficient in creating dynamic and responsive applications using HTML, CSS, JavaScript, and .NET. Additionally, I have experience building scalable backend solutions using PHP frameworks like Symfony and developing RESTful APIs. On the mobile front, I'm expanding my expertise with Flutter for cross-platform app development. I prioritize clean, efficient code, leveraging Git for version control, and thrive in collaborative environments.
+👋 Hi! I’m Mohamed Amine, a Junior Software Developer with a background in Computer Technologies. Recently graduated and excited to grow in my career, I'm eager to tackle new challenges and contribute to innovative projects.
 
-🚀 My goal is to become a proficient full-stack developer, working on innovative solutions that enhance user experience and drive business growth. My leadership role as Vice President of the Google Developer Students Club has further refined my problem-solving, communication, and teamwork skills, preparing me to contribute effectively to any team.
+🚀 What Drives Me
+Passionate about web development, I strive to build impactful web and mobile applications. My skills span front-end tools like HTML, CSS, and ReactJS, along with backend technologies like .NET and PHP (Symfony). I'm also enhancing my mobile development knowledge using Flutter to deliver versatile, user-focused solutions.
 
-🌱 I’m always seeking opportunities to learn, grow, and contribute to impactful projects. Whether through full-time roles or freelance work, I’m excited to make a meaningful difference in the tech world!
+🔧 Skills & Strengths
+
+• Web Development: HTML, CSS, JavaScript, ReactJS, .NET
+• Backend: PHP (Symfony), RESTful APIs
+• Mobile Development: Flutter
+• Version Control: Git and GitHub
+
+🏅 Experience & Leadership
+As a former Vice President of the Google Developer Students Club, I honed my project leadership and collaboration skills. My academic and professional experiences have sharpened my technical and critical thinking abilities, positioning me to thrive in tech-driven environments.
+
+🌱 Next Steps
+Committed to continuous learning and professional growth, I’m ready to take on complex projects, learn from mentors, and contribute to impactful work in my role as a Junior Software Developer.
 
 Please feel free to reach out to me via my LinkedIn profile.
 <p>
