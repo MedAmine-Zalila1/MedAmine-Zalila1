@@ -5,9 +5,9 @@
 
 **`Junior Software Developer (Web & Mobile Apps)`**
 # 💫 About Me:
-💻 Junior Software Developer | Passionate About Web & Mobile Development
+💻 Junior Software Engineer | Passionate About Web & Mobile Development
 
-👋 Hi! I’m Mohamed Amine, a Junior Software Developer with a background in Computer Technologies. Recently graduated and excited to grow in my career, I'm eager to tackle new challenges and contribute to innovative projects.
+👋 Hi! I’m Mohamed Amine, a Junior Software Engineer with a background in Computer Technologies. Recently graduated and excited to grow in my career, I'm eager to tackle new challenges and contribute to innovative projects.
 
 🚀 What Drives Me
 Passionate about web development, I strive to build impactful web and mobile applications. My skills span front-end tools like HTML, CSS, and ReactJS, along with backend technologies like .NET and PHP (Symfony). I'm also enhancing my mobile development knowledge using Flutter to deliver versatile, user-focused solutions.
@@ -15,7 +15,7 @@ Passionate about web development, I strive to build impactful web and mobile app
 🔧 Skills & Strengths
 
 • Web Development: HTML, CSS, JavaScript, ReactJS, .NET
-• Backend: PHP (Symfony), RESTful APIs
+• Backend: PHP (Symfony), RESTful APIs, .Net Core
 • Mobile Development: Flutter
 • Version Control: Git and GitHub
 
