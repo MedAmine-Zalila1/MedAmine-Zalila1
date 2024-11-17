@@ -3,7 +3,7 @@
 
 # 🧑🏻‍💻 Mohamed Amine Zalila
 
-**`Junior Software Developer (Web & Mobile Apps)`**
+**`Junior Software Engineer (Web & Mobile Apps)`**
 # 💫 About Me:
 💻 Junior Software Engineer | Passionate About Web & Mobile Development
 
