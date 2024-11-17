@@ -14,7 +14,7 @@ Passionate about web development, I strive to build impactful web and mobile app
 
 🔧 Skills & Strengths
 
-• Web Development: HTML, CSS, JavaScript, ReactJS, .NET
+• Web Development: HTML, CSS, JavaScript, ReactJS, .NET <br>
 • Backend: PHP (Symfony), RESTful APIs, .Net Core
 • Mobile Development: Flutter
 • Version Control: Git and GitHub
